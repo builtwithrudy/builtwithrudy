@@ -26,5 +26,3 @@ Coming soon.
 Coming soon.
 
 
-- ⚡ Fun fact: ...
--->
